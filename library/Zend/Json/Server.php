@@ -504,7 +504,7 @@ class Zend_Json_Server extends Zend_Server_Abstract
     /**
      * Internal method for handling request
      *
-     * @return false
+     * @return void
      * @throws ReflectionException
      * @throws Zend_Server_Exception
      */
