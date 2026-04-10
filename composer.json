@@ -1,7 +1,12 @@
 {
-    "name": "zf1s/zend-json",
+    "name": "maksimovic/zend-json",
     "description": "Zend Framework 1 Json package",
-    "keywords": ["framework", "zf1", "zend", "json"],
+    "keywords": [
+        "framework",
+        "zf1",
+        "zend",
+        "json"
+    ],
     "homepage": "http://framework.zend.com/",
     "license": "BSD-3-Clause",
     "require": {
